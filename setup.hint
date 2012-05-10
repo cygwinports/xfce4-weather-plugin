@@ -1,5 +1,5 @@
 category: Xfce
-requires: libcairo2 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libpango1.0_0 libxfce4util4 libxfcegui4_4 libxml2 xfce4-panel
+requires: libcairo2 libgdk_pixbuf2.0_0 libglib2.0_0 libgtk2.0_0 libpango1.0_0 libxfce4util6 libxfcegui4_4 libxml2 xfce4-panel
 sdesc: "Xfce weather panel plugin"
 ldesc: "This panel plugin shows the current temperature and weather 
 condition, using weather data provided by xoap.weather.com."
