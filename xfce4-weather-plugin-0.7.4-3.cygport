@@ -1,6 +1,0 @@
-inherit xfce4
-
-
-PATCH_URI="0.7.4-as-needed.patch"
-# https://bugzilla.xfce.org/show_bug.cgi?id=8105
-PATCH_URI+=" http://patch-tracker.debian.org/patch/series/dl/xfce4-weather-plugin/0.7.4-3/00_license.patch"

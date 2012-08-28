@@ -1,0 +1,6 @@
+inherit xfce4
+
+CATEGORY="Xfce"
+SUMMARY="Xfce weather panel plugin"
+DESCRIPTION="This panel plugin shows short- and long-term weather forecasts,
+using weather data provided by the Norwegian Meteorological Institute."
