@@ -2,8 +2,10 @@ inherit xfce4
 
 NAME="xfce4-weather-plugin"
 VERSION=0.8.5
-RELEASE=1
+RELEASE=2
 CATEGORY="Xfce"
 SUMMARY="Xfce weather panel plugin"
 DESCRIPTION="This panel plugin shows short- and long-term weather forecasts,
 using weather data provided by the Norwegian Meteorological Institute."
+
+CYGCONF_ARGS="--disable-upower"
