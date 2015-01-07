@@ -1,7 +1,7 @@
 inherit xfce4
 
 NAME="xfce4-weather-plugin"
-VERSION=0.8.3
+VERSION=0.8.5
 RELEASE=1
 CATEGORY="Xfce"
 SUMMARY="Xfce weather panel plugin"
