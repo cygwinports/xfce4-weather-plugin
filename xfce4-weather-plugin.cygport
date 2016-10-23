@@ -1,8 +1,8 @@
 inherit xfce4
 
 NAME="xfce4-weather-plugin"
-VERSION=0.8.5
-RELEASE=2
+VERSION=0.8.8
+RELEASE=1
 CATEGORY="Xfce"
 SUMMARY="Xfce weather panel plugin"
 DESCRIPTION="This panel plugin shows short- and long-term weather forecasts,
